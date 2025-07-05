@@ -1,0 +1,11 @@
+SpringMavenApp/
+├── pom.xml
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/example/
+        │       ├── App.java
+        │       ├── MessageService.java
+        │       └── MessagePrinter.java
+        └── resources/
+            └── applicationContext.xml
