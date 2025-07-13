@@ -1,0 +1,9 @@
+spring-core-xml/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/example/
+│       │       ├── Country.java
+│       │       └── MainApp.java
+│       └── resources/
+│           └── spring-config.xml
