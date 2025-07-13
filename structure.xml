@@ -1,0 +1,11 @@
+country-rest-service/
+├── pom.xml
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/example/country/
+        │       ├── Country.java
+        │       ├── CountryController.java
+        │       └── CountryApplication.java
+        └── resources/
+            └── application.properties
