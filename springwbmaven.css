@@ -1,0 +1,12 @@
+spring-web-maven/
+├── pom.xml
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/example/demo/
+│       │       ├── DemoApplication.java
+│       │       └── HomeController.java
+│       └── resources/
+│           ├── application.properties
+│           └── templates/
+│               └── index.html
