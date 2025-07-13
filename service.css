@@ -1,0 +1,15 @@
+jwt-auth-service/
+├── pom.xml
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/example/jwt/
+        │       ├── JwtUtil.java
+        │       ├── AuthController.java
+        │       ├── AuthRequest.java
+        │       ├── AuthResponse.java
+        │       ├── JwtFilter.java
+        │       ├── SecurityConfig.java
+        │       └── JwtApplication.java
+        └── resources/
+            └── application.properties
